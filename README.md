@@ -11,7 +11,7 @@ Given a pair of user ID and item ID, the language model needs to generate a word
 
 Click the links below to find the code (with PyTorch 1.6) and the paper.
 
-- [PEPLER](https://github.com/lileipisces/PEPLER) \cite{2022-PEPLER}: pre-trained model GPT-2
+- [PEPLER](https://github.com/lileipisces/PEPLER) \cite{TOIS23-PEPLER}: pre-trained model GPT-2
 - [PETER](https://github.com/lileipisces/PETER) \cite{ACL21-PETER}: Transformer
 - [NRT](https://github.com/lileipisces/NRT) \cite{SIGIR17-NRT}: GRU
 - [Att2Seq](https://github.com/lileipisces/Att2Seq) \cite{EACL17-Att2Seq}: LSTM
