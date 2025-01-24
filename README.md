@@ -25,7 +25,7 @@ Besides BLEU in machine translation and ROUGE in text summarization, four explai
 - Feature Coverage Ratio (FCR)
 - Feature Diversity (DIV)
 
-## [Public datasets](https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16484134_life_hkbu_edu_hk/Eln600lqZdVBslRwNcAJL5cBarq6Mt8WzDKpkq1YCqQjfQ?e=cISb1C) and how to create them
+## [Public datasets](https://drive.google.com/drive/folders/1yB-EFuApAOJ0RzTI0VfZ0pignytguU0_?usp=sharing) and how to create them
 
 Each record in the datasets below \cite{CIKM20-NETE, WWW20-NETE} is comprised of a user ID, an item ID, a rating, an explanation, and a feature. The explanations are high-quality sentences extracted from user reviews, via [Sentires-Guide](https://github.com/lileipisces/Sentires-Guide) \cite{CIKM20-NETE, WWW20-NETE} that could obtain ```(feature, opinion, sentence, sentiment)``` quadruples from reviews. It is a Python wrapper for the Java tool [Sentires](https://github.com/evison/Sentires) \cite{SIGIR14-Sentires}, which can infer ```(feature, opinion, sentiment)``` triples from reviews.
 
